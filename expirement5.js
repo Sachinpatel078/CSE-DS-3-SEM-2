@@ -82,4 +82,4 @@ output+=dept+" : "+deptCount[dept]+" employees <br>";
 
 document.getElementById("output").innerHTML=output;
 
-}
+} 
